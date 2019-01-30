@@ -1,0 +1,228 @@
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\wkong6174\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\cujhelyi1479\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+C:\Users\cujhe\Desktop\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+G:\ui design\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+G:\ui design\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+G:\ui design\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+G:\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+G:\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+G:\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+G:\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+G:\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+G:\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+G:\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+\\FS09D\STU12\Home\Cujhelyi1479\ui design\ChessGUI_2\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\Project\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.csprojResolveAssemblyReference.cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.Cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181128\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.csprojResolveAssemblyReference.cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.Cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181129\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\obj\Debug\ChessGUI_2.csprojResolveAssemblyReference.cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\obj\Debug\ChessGUI_2.Form1.resources
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.Cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181130\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.csprojResolveAssemblyReference.cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.Cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+C:\Users\Weixin Kong\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\cujhelyi1479\Desktop\ChessGUI_20181201\ChessGUI_2\obj\Debug\ChessGUI_2.Form2.resources
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.Form2.resources
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\cujhelyi1479\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.Form2.resources
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\wkong6174\Desktop\current\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\obj\Debug\ChessGUI_2.Form2.resources
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+G:\Fall_2018\PROG_2325\Project\current\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\obj\Debug\ChessGUI_2.csprojResolveAssemblyReference.cache
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\obj\Debug\ChessGUI_2.Form2.resources
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.Cache
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\Chess 20181202 1829\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\obj\Debug\ChessGUI_2.csprojResolveAssemblyReference.cache
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\obj\Debug\ChessGUI_2.Form2.resources
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.Cache
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\Weixin Kong\Desktop\Chess 20181202 2134\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\obj\Debug\ChessGUI_2.Form2.resources
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\cujhe\Desktop\Chess Final Version From Weixin\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\bin\Debug\ChessGUI_2.exe.config
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\bin\Debug\ChessGUI_2.exe
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\bin\Debug\ChessGUI_2.pdb
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\obj\Debug\ChessGUI_2.csprojAssemblyReference.cache
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\obj\Debug\ChessGUI_2.CustomMsg.resources
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\obj\Debug\ChessGUI_2.Chess_Main_Form.resources
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\obj\Debug\ChessGUI_2.Form2.resources
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\obj\Debug\ChessGUI_2.Properties.Resources.resources
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.GenerateResource.cache
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\obj\Debug\ChessGUI_2.csproj.CoreCompileInputs.cache
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\obj\Debug\ChessGUI_2.exe
+C:\Users\cujhe\Desktop\Chess Final Version\ChessGUI_2\obj\Debug\ChessGUI_2.pdb
